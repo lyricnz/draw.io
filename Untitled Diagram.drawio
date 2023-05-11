@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T01:42:06.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iBQdVBAmwySd16u5uK0T" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T01:47:26.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eBUOm26Hf9a4iFn46Qum" version="21.0.6" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1353" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -113,6 +113,20 @@
         <mxCell id="lxKlnbofilipyLmYubu6-35" value="House Panel" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="1230" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-88" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-36" target="lxKlnbofilipyLmYubu6-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-89" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-36" target="lxKlnbofilipyLmYubu6-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-90" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.1;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-36" target="lxKlnbofilipyLmYubu6-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1540" />
+              <mxPoint x="765" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lxKlnbofilipyLmYubu6-36" value="Bungalow Panel" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="1460" width="70" height="70" as="geometry" />
         </mxCell>
@@ -188,6 +202,24 @@
         </mxCell>
         <mxCell id="lxKlnbofilipyLmYubu6-81" value="pump" style="shape=mxgraph.pid.pumps.vacuum_pump;html=1;pointerEvents=1;align=left;verticalLabelPosition=middle;verticalAlign=middle;dashed=0;strokeWidth=2;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="963.5" y="1220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-82" value="fridge" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-2/24/fridge-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1470" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-83" value="freezer" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/refrigerator_electronics_freezer_fridge_household_appliance-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1510" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-84" value="drier" style="shape=mxgraph.pid.driers.rotary_drum_drier,_tumbling_drier;html=1;pointerEvents=1;align=left;verticalLabelPosition=middle;verticalAlign=middle;dashed=0;strokeWidth=2;labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="1560" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-85" value="simon desk" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/education-and-school-glyph-24-px/24/Desk_chair_pupil_school_student_student_desk-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-86" value="lights" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Lamp_electric_light_led_bulb_light_bulb_luminaire-128.png;labelPosition=right;align=left;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1660" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-87" value="heater / ac" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-1/24/air-conditioner-128.png;labelPosition=right;align=left;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1700" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
