@@ -1,34 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T01:26:49.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3-7quaEnxEkFx2dsDB4w" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T01:42:06.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iBQdVBAmwySd16u5uK0T" version="21.0.6" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1353" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lxKlnbofilipyLmYubu6-28" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-6">
+        <mxCell id="lxKlnbofilipyLmYubu6-28" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-8">
+        <mxCell id="lxKlnbofilipyLmYubu6-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-9">
+        <mxCell id="lxKlnbofilipyLmYubu6-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-32" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-20">
+        <mxCell id="lxKlnbofilipyLmYubu6-32" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-33" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-21">
+        <mxCell id="lxKlnbofilipyLmYubu6-33" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-34" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-7">
+        <mxCell id="lxKlnbofilipyLmYubu6-34" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=4;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-35">
+        <mxCell id="lxKlnbofilipyLmYubu6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-2" target="lxKlnbofilipyLmYubu6-35">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-62" value="&quot;main&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxKlnbofilipyLmYubu6-37">
+          <mxGeometry x="0.4334" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lxKlnbofilipyLmYubu6-2" value="Workshop Panel" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="1010" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-3" target="lxKlnbofilipyLmYubu6-2">
+        <mxCell id="lxKlnbofilipyLmYubu6-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;shadow=0;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-58" target="lxKlnbofilipyLmYubu6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lxKlnbofilipyLmYubu6-17" value="3 phase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxKlnbofilipyLmYubu6-16">
@@ -36,10 +41,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-3" value="solar panels + inverter" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/133_Solar_Panel_Energy_technology_smart_city_technology_smart-128.png" vertex="1" parent="1">
-          <mxGeometry x="150" y="892" width="98" height="98" as="geometry" />
+        <mxCell id="lxKlnbofilipyLmYubu6-60" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-3" target="lxKlnbofilipyLmYubu6-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-18" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-4" target="lxKlnbofilipyLmYubu6-2">
+        <mxCell id="lxKlnbofilipyLmYubu6-3" value="solar east" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/133_Solar_Panel_Energy_technology_smart_city_technology_smart-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="879" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-18" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-4" target="lxKlnbofilipyLmYubu6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lxKlnbofilipyLmYubu6-19" value="3 phase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxKlnbofilipyLmYubu6-18">
@@ -80,17 +88,106 @@
         <mxCell id="lxKlnbofilipyLmYubu6-26" value="NAS, NVR, Switch" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="940" y="892" width="80" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-65" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-35" target="lxKlnbofilipyLmYubu6-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-66" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-35" target="lxKlnbofilipyLmYubu6-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-67" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=1;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-35" target="lxKlnbofilipyLmYubu6-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1320" />
+              <mxPoint x="760" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-68" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-35" target="lxKlnbofilipyLmYubu6-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="1340" />
+              <mxPoint x="765" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lxKlnbofilipyLmYubu6-35" value="House Panel" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="1230" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lxKlnbofilipyLmYubu6-36" value="Bungalow Panel" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="1460" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lxKlnbofilipyLmYubu6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=4;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-35" target="lxKlnbofilipyLmYubu6-36">
+        <mxCell id="lxKlnbofilipyLmYubu6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-35" target="lxKlnbofilipyLmYubu6-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="1320" as="sourcePoint" />
             <mxPoint x="630" y="1470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="545" y="1420" />
+              <mxPoint x="545" y="1420" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-63" value="&quot;bungalow&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxKlnbofilipyLmYubu6-38">
+          <mxGeometry x="-0.6937" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-76" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-45" target="lxKlnbofilipyLmYubu6-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-77" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-45" target="lxKlnbofilipyLmYubu6-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-78" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-45" target="lxKlnbofilipyLmYubu6-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-45" value="power 1" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Electrical_plug_plug_plug_connector_plug_in_power_plug-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-80" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-46" target="lxKlnbofilipyLmYubu6-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-46" value="power 2" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Electrical_plug_plug_plug_connector_plug_in_power_plug-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-47" value="wall oven" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Electrical_plug_plug_plug_connector_plug_in_power_plug-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1300" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-48" value="hot water (unused)" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Electrical_plug_plug_plug_connector_plug_in_power_plug-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-49" value="lights" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Lamp_electric_light_led_bulb_light_bulb_luminaire-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1385" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-61" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0.026;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-55" target="lxKlnbofilipyLmYubu6-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-55" value="solar west" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/133_Solar_Panel_Energy_technology_smart_city_technology_smart-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="950" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-58" value="solar inverter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="887" width="70" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-64" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="lxKlnbofilipyLmYubu6-35" target="lxKlnbofilipyLmYubu6-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="1280" as="sourcePoint" />
+            <mxPoint x="822" y="1522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-69" value="dishwasher" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-2/24/dishwasher-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="967" y="1167" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-74" value="fridge" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-2/24/fridge-128.png;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="968.5" y="1255" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-79" value="sauna" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;strokeWidth=2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="973.5" y="1330" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxKlnbofilipyLmYubu6-81" value="pump" style="shape=mxgraph.pid.pumps.vacuum_pump;html=1;pointerEvents=1;align=left;verticalLabelPosition=middle;verticalAlign=middle;dashed=0;strokeWidth=2;labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="963.5" y="1220" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
